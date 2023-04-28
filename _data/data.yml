@@ -9,9 +9,7 @@ sidebar:
    # Profile information
     name: Yan Masetto Nicolai
 
-    tagline: Master in Linguistics        ||
-    
-             Professor of Portuguese and Spanish
+    tagline: Master in Linguistics & Professor of Portuguese and Spanish
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
