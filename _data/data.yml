@@ -10,8 +10,7 @@ sidebar:
     name: Yan Masetto Nicolai
     tagline: Professor of Portuguese and Spanish
              Master in Linguistics
-             PhD in Linguistics (in course)
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+   avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: prof.ymasetto@gmail.com
@@ -49,7 +48,7 @@ career-profile:
     title: Career Profile
     summary: |
       Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
+      adipiscing elit. You can [download this free resume/CV template here](Yan Masetto Nicolai - CV (last update).pdf).
       Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
       penatibus et magnis dis parturient montes, nascetur ridiculus mus.
       Donec quam felis, ultricies nec, pellentesque eu.
