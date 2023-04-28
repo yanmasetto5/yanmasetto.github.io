@@ -7,50 +7,42 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Yan Masetto Nicolai
+    tagline: Professor of Portuguese and Spanish
+             Master in Linguistics
+             PhD in Linguistics (in course)
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
+    email: prof.ymasetto@gmail.com
+    timezone: Brasilia Timezone
     citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    website: https://www.researchgate.net/profile/Yan-Masetto-Nicolai #do not add http://
+    linkedin: Yan Masetto Nicolai
+    pdf: Yan Masetto Nicolai - CV (last update).pdf
 
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Brazilian Portuguese
           level: Native
 
-        - idiom: French
-          level: Professional
-
         - idiom: Spanish
-          level: Professional
+          level: C1
+
+        - idiom: English
+          level: B2
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Linguistics
           link:
 
-        - item: Snowboarding
+        - item: Games and Digital Medias
           link:
 
-        - item: Cooking
+        - item: Teach & Learn
           link:
 
 career-profile:
@@ -134,7 +126,7 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
+      - title: Directivity in Brazilian Portuguese
         link: "#hook"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
