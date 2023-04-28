@@ -70,23 +70,32 @@ education:
       - degree:  PhD in Linguistics (in course)
         university: Federal University of São Carlos (UFSCar) 
         time: 2019-2023
-        details: |
+        # details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
           sociis natoque penatibus et magnis dis parturient montes, nascetur
           ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
           pretium quis, sem.
-          
-          - degree:  Masters in Linguistics
+          | 
+       - degree:  Masters in Linguistics
         university: Federal University of São Carlos (UFSCar) 
         time: 2017-2019
-        details: |
+       # details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
           sociis natoque penatibus et magnis dis parturient montes, nascetur
           ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
           pretium quis, sem.
-           
+           |
+           - degree:  Graduation in Spanish and Portuguese Language and Literatures
+        university: Federal University of São Carlos (UFSCar) 
+        time: 2011-2015
+       # details: |
+          Describe your study here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+          sociis natoque penatibus et magnis dis parturient montes, nascetur
+          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+          pretium quis, sem.
 experiences:
     title: Experiences
     info:
