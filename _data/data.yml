@@ -30,6 +30,10 @@ sidebar:
     #goodreads: # Number-Username, e.g. 123456-alandoe
    # pdf: http://www.africau.edu/images/default/sample.pdf
 
+    education: 
+    - degree:  PhD in Linguistics (in course)
+university: Federal University of São Carlos (UFSCar) 
+        time: 2019-2023
 
     languages:
       title: Languages
@@ -66,7 +70,7 @@ career-profile:
       Second paragraph if required.
 education:
     title: Education
-    info:
+ #   info:
       - degree:  PhD in Linguistics (in course)
         university: Federal University of São Carlos (UFSCar) 
         time: 2019-2023
