@@ -80,12 +80,12 @@
           pretium quis, sem.
         
                  
-experiences:
+# experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: A
+        time: A
+        company: A
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -120,6 +120,7 @@ experiences:
           pellentesque eu, pretium quis, sem.
             - Bullet point
             - Bullet point
+            
  projects:
     title: Projects
     intro: >
@@ -135,18 +136,11 @@ experiences:
         link: repositorio.ufscar.br/handle/ufscar/11118
         tagline: "Description and analysis of imperatives in Brazlian Portuguese with a methodological interface-tool between Syntax-Semantics-Pragmatics"
 
-      - title: Irony & Sarcasm 
+      - title: Irony &amp; Sarcasm 
         link: academia.edu/31357572/Veredas_pragm%C3%A1ticas_Ironia_e_Sarcasmo_e_aspectos_de_sentido_e_uso
         tagline: "Description of the phenomena of Irony & Sarcasm pragmaticly in Brazilian Portuguese"
 
-     # - title: Atom
-     #   link: "#"
-    #    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-    #  - title: Delta
-    #    link: "#"
-    #    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
+   
 
 # oss:
     title: OSS Contributions
@@ -189,17 +183,17 @@ publications:
         authors: Edgar T. Irons
         conference: "Comm. ACM 4 (1961), 51–55"
 
-skills:
+# skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: LaTeX
+        level: 70%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Formal Semantics
+        level: 95%
 
-      - name: Angular
+      - name: Pragmatics
         level: 98%
 
       - name: HTML5 & CSS
