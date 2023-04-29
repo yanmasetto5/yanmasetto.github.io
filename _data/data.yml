@@ -63,13 +63,13 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: PhD in Linguistics (in course)
+     - degree: PhD in Linguistics (in course)
        university: Federal University of São Carlos (UFSCar) 
        time: 2019 - 2023
-      - degree: Masters in Linguistics
+     - degree: Masters in Linguistics
        university: Federal University of São Carlos (UFSCar) 
        time: 2017 - 2019
-      - degree: Graduation in Language and Literatura (Portuguese and Spanish)
+     - degree: Graduation in Language and Literatura (Portuguese and Spanish)
        university: Federal University of São Carlos (UFSCar) 
        time: 2011 - 2015
 
