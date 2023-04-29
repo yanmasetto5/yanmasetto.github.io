@@ -56,8 +56,8 @@ sidebar:
 career-profile:
 title: CV info
 details: I am Yan Masetto, a linguist with teaching experience in Brazil. This CV compiles my academic work for easy access. Feel free to contact me with any questions.
-   education:
-    title: Education
+education:
+title: Education
     info:
       - degree: PhD in Linguistics (in course)
         university: Federal University of São Carlos (UFSCar) 
