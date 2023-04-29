@@ -81,34 +81,7 @@ sidebar:
           ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
           pretium quis, sem.
         
-        projects:
-    title: Projects
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Directivity in Brazilian Portuguese (in course)
-        link: www.geser.ufscar.br/projetos
-        tagline: "Description and analysis of forms with directive force in Brazilian Portuguese using the interface between (Formal) Semantics-Pragmatics and Cartographic Syntax."
-
-      - title: Imperatives in Brazilian Portuguese (Concluded)
-        link: repositorio.ufscar.br/handle/ufscar/11118
-        tagline: "Description and analysis of imperatives in Brazlian Portuguese with a methodological interface-tool between Syntax-Semantics-Pragmatics"
-
-      - title: Irony & Sarcasm 
-        link: academia.edu/31357572/Veredas_pragm%C3%A1ticas_Ironia_e_Sarcasmo_e_aspectos_de_sentido_e_uso
-        tagline: "Description of the phenomena of Irony & Sarcasm pragmaticly in Brazilian Portuguese"
-
-     # - title: Atom
-     #   link: "#"
-    #    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-    #  - title: Delta
-    #    link: "#"
-    #    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-          
+                 
 experiences:
     title: Experiences
     info:
@@ -149,34 +122,35 @@ experiences:
           pellentesque eu, pretium quis, sem.
             - Bullet point
             - Bullet point
-# projects:
+ projects:
     title: Projects
     intro: >
       You can list your side projects in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Directivity in Brazilian Portuguese (in course)
+        link: www.geser.ufscar.br/projetos
+        tagline: "Description and analysis of forms with directive force in Brazilian Portuguese using the interface between (Formal) Semantics-Pragmatics and Cartographic Syntax."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Imperatives in Brazilian Portuguese (Concluded)
+        link: repositorio.ufscar.br/handle/ufscar/11118
+        tagline: "Description and analysis of imperatives in Brazlian Portuguese with a methodological interface-tool between Syntax-Semantics-Pragmatics"
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Irony & Sarcasm 
+        link: academia.edu/31357572/Veredas_pragm%C3%A1ticas_Ironia_e_Sarcasmo_e_aspectos_de_sentido_e_uso
+        tagline: "Description of the phenomena of Irony & Sarcasm pragmaticly in Brazilian Portuguese"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+     # - title: Atom
+     #   link: "#"
+    #    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    #  - title: Delta
+    #    link: "#"
+    #    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-oss:
+
+# oss:
     title: OSS Contributions
     intro: >
       You can list your open source software contributions in this
