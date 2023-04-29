@@ -55,11 +55,11 @@ sidebar:
 
 career-profile:
     title: CV info
-    summary: |
->      I am Yan Masetto, a brazilan linguist. with experience teaching at various educational levels in Brazil. 
->      I have taught classes to diverse audiences with different objectives, all of which involve language, languages, and linguistics directly or indirectly.
->      This CV compiles my academic work for easy access. 
->      Feel free to contact me with any questions.
+    summary: 
+      I am Yan Masetto, a brazilan linguist. with experience teaching at various educational levels in Brazil. 
+      I have taught classes to diverse audiences with different objectives, all of which involve language, languages, and linguistics directly or indirectly.
+      This CV compiles my academic work for easy access. 
+      Feel free to contact me with any questions.
 education:
     title: Education
     info:
