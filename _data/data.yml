@@ -76,7 +76,8 @@ education:
 experiences:
     title: Talks-Presentations
     info:
-      - role: Os perigos de PROMETER, JURAR, TESTESMUNHAR e BRINCAR
+      - role: Os perigos de PROMETER, JURAR, TESTESMUNHAR 
+              e BRINCAR
         time: April, 24th, 2023
         company: School of Autumm of Linguistics (OBL 2023)
       #  details: |
@@ -91,7 +92,8 @@ experiences:
       #    architecto beatae vitae dicta sunt explicabo.
       #      - Bullet point
       #      - Bullet point
-      - role: Infinitivo, gerúndio e particípio - formas distintas ao imperativo com interpretação diretiva em português brasileiro
+      - role: Infinitivo, gerúndio e particípio - 
+              formas distintas ao imperativo com interpretação diretiva em português brasileiro
         time: March, 24th-25th, 2023
         company: 26th Ohio State University Congress on Hispanic and Lusophone Linguistics (26th OSUCHiLL - Hybrid)
         link: "https://sppo.osu.edu/research/osu-congress-on-hispanic-lusophone-linguistics-symposium"
