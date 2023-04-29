@@ -55,7 +55,8 @@ sidebar:
 
 career-profile:
     title: CV info
-      summary: I am Yan Masetto, a brazilan linguist. This CV compiles my academic work for easy access. Feel free to contact me with any questions.
+    summary: |
+    I am Yan Masetto, a brazilan linguist. This CV compiles my academic work for easy access. Feel free to contact me with any questions.
 
 education:
     title: Education
