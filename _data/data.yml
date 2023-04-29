@@ -3,8 +3,8 @@
 #
 
 sidebar:
-    about: FALSE # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: FALSE # set to False if you want education in main section instead of in sidebar
+    about: TRUE # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: TRUE # set to False if you want education in main section instead of in sidebar
 
    # Profile information
     name: Yan Masetto Nicolai, Ma.
@@ -14,10 +14,10 @@ sidebar:
 
     # Sidebar links
     email: prof.ymasetto@gmail.com
+    Website: researchgate.net/profile/Yan-Masetto-Nicolai  #do not add http://
     # phone: 012 345 6789
     # timezone: America/Cancun Timezone
     # citizenship:
-    Website: researchgate.net/profile/Yan-Masetto-Nicolai  #do not add http://
     # linkedin: alandoe
     # xing: alandoe
     # github: sharu725
