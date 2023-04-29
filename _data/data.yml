@@ -16,7 +16,7 @@ sidebar:
    # phone: 012 345 6789
    # timezone: America/Cancun Timezone
    # citizenship:
-    website: researchgate.net/profile/Yan-Masetto-Nicolai  #do not add http://
+    website: <a href="researchgate.net/profile/Yan-Masetto-Nicolai">RESEARCH GATE</a>  #do not add http://
    # linkedin: alandoe
     #xing: alandoe
     #github: sharu725
@@ -55,7 +55,7 @@ sidebar:
 
     career-profile:
         title: CV info
-            details: I am Yan Masetto, a brazilan linguist. This CV compiles my academic work for easy access. Feel free to contact me with any questions.
+        summary: I am Yan Masetto, a brazilan linguist. This CV compiles my academic work for easy access. Feel free to contact me with any questions.
 
     education:
     title: Education
@@ -71,7 +71,7 @@ sidebar:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-     - degree:  <a href="repositorio.ufscar.br/handle/ufscar/11118">Masters in Linguistics</a>
+     - degree: Masters in Linguistics
        university: Federal University of São Carlos (UFSCar) 
        time: 2017 - 2019
        details: |
