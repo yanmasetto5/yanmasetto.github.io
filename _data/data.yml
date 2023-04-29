@@ -126,11 +126,11 @@ projects:
         tagline: Description and analysis of directive force in Brazilian Portuguese based on Formal Semantics and Pragmatics, and interface with Cartographic Syntax
 
       - title: Imperatives in Brazilian Portuguese (Masters Dissertation)
-        link: "repositorio.ufscar.br/handle/ufscar/11118"
+        link: "http://www.repositorio.ufscar.br/handle/ufscar/11118"
         tagline: Description and analysis of imperatives in Brazilian Portuguese based on Formal Semantics and Pragmatics, and interface with Cartographich Syntax
 
       - title: Irony & Sarcasmo (Dissertation Graduation Conclusion)
-        link: "academia.edu/31357572/Veredas_pragm%C3%A1ticas_Ironia_e_Sarcasmo_e_aspectos_de_sentido_e_uso"
+        link: "http://www.academia.edu/31357572/Veredas_pragm%C3%A1ticas_Ironia_e_Sarcasmo_e_aspectos_de_sentido_e_uso"
         tagline: Analysis and description of the ironic and sarcastic phenomena in Brazilian Portuguese (Graduation Level)
 
 oss:
