@@ -52,46 +52,25 @@ sidebar:
 
         - item: Games, Mods and Digital Media 
           link:
+   
     career-profile:
-        title: CV info
-        summary: I am Yan Masetto, a brazilan linguist. This CV compiles my academic work for easy access. Feel free to contact me with any questions.
+       title: CV info
+       summary: I am Yan Masetto, a brazilan linguist. This CV compiles my academic work for easy access. Feel free to contact me with any questions.
+    
     education:
     title: Education
     info:
      - degree: PhD in Linguistics (in course)
        university: Federal University of São Carlos (UFSCar) 
        time: 2019 - 2023
-       details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
      - degree: Masters in Linguistics
        university: Federal University of São Carlos (UFSCar) 
        time: 2017 - 2019
-       details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
      - degree: Graduation in Language and Literatura (Portuguese and Spanish)
        university: Federal University of São Carlos (UFSCar) 
        time: 2011 - 2015
-       details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-experiences:
+    
+    experiences:
     title: Experiences
     info:
       - role: Lead Developer
