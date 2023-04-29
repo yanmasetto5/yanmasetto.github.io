@@ -73,8 +73,8 @@ education:
        university: Federal University of São Carlos (UFSCar) 
        time: 2011 - 2015
 
-talks-presentations:
-    title: Experiences
+experiences:
+    title: Talks-Presentations
     info:
       - role: Lead Developer
         time: 2015 - Present
@@ -121,25 +121,17 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
+      - title: Directivity in Brazilian Portuguese (PhD thesis)
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: Description and analysis of directive force in Brazilian Portuguese based on Formal Semantics and Pragmatics, and interface with Cartographic Syntax
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Imperatives in Brazilian Portuguese (Masters Dissertation)
+        link: repositorio.ufscar.br/handle/ufscar/11118
+        tagline: Description and analysis of imperatives in Brazilian Portuguese based on Formal Semantics and Pragmatics, and interface with Cartographich Syntax
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Irony & Sarcasmo (Dissertation Graduation Conclusion)
+        link: academia.edu/31357572/Veredas_pragm%C3%A1ticas_Ironia_e_Sarcasmo_e_aspectos_de_sentido_e_uso
+        tagline: Analysis and description of the ironic and sarcastic phenomena in Brazilian Portuguese (Graduation Level)
 
 oss:
     title: OSS Contributions
