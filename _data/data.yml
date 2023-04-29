@@ -3,8 +3,9 @@
 #
 
 sidebar:
-    # about: FALSE # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: TRUE # set to False if you want education in main section instead of in sidebar
+   education: TRUE 
+   > about: FALSE # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    
 
    # Profile information
     name: Yan Masetto Nicolai, Ma.
