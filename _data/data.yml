@@ -32,25 +32,25 @@ sidebar:
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Brazilian Portuguese
           level: Native
 
-        - idiom: French
-          level: Professional
-
         - idiom: Spanish
-          level: Professional
+          level: C1
+
+        - idiom: English
+          level: B2
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Fomal Semantics
           link:
 
-        - item: Snowboarding
+        - item: Pragmatics
           link:
 
-        - item: Cooking
+        - item: Games, Mods and Digital Media 
           link:
 
 career-profile:
