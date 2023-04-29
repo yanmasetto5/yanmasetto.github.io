@@ -53,13 +53,14 @@ sidebar:
         - item: Games, Mods and Digital Media 
           link:
 
-career-profile:
-title: CV info
-details: I am Yan Masetto, a linguist with teaching experience in Brazil. This CV compiles my academic work for easy access. Feel free to contact me with any questions.
-education:
-title: Education
-info:
-      - degree: PhD in Linguistics (in course)
+    career-profile:
+        title: CV info
+        details: I am Yan Masetto, a linguist with teaching experience in Brazil. This CV compiles my academic work for easy access. Feel free to contact me with any questions.
+
+    education:
+        title: Education
+        info:
+        - degree: PhD in Linguistics (in course)
         university: Federal University of São Carlos (UFSCar) 
         time: 2019 - 2023
         details: |
@@ -70,7 +71,7 @@ info:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: Masters in Linguistics
+        - degree: Masters in Linguistics
         university: Federal University of São Carlos (UFSCar) 
         time: 2017 - 2019
         details: |
@@ -81,7 +82,7 @@ info:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: Graduation in Language and Literatura (Portuguese and Spanish)
+        - degree: Graduation in Language and Literatura (Portuguese and Spanish)
         university: Federal University of São Carlos (UFSCar) 
         time: 2011 - 2015
         details: |
