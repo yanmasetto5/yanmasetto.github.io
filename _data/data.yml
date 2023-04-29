@@ -76,33 +76,38 @@ education:
 experiences:
     title: Talks-Presentations
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
+      - role: Os perigos de PROMETER, JURAR, TESTESMUNHAR e BRINCAR
+        time: April, 24th, 2023
+        company: School of Autumm of Linguistics (OBL 2023)
+      #  details: |
+      #    Describe your role here lorem ipsum dolor sit amet, consectetuer
+      #    adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+      #    Cum sociis natoque penatibus et magnis dis parturient montes,
+      #    nascetur ridiculus mus. Donec quam felis, ultricies nec,
+      #    pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+      #    enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+      #    error sit voluptatem accusantium doloremque laudantium, totam rem
+      #    aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+      #    architecto beatae vitae dicta sunt explicabo.
+      #      - Bullet point
+      #      - Bullet point
+      - role: Infinitivo, gerúndio e particípio - formas distintas ao imperativo com interpretação diretiva em português brasileiro
+        time: March, 24th-25th, 2023
+        company: 26th Ohio State University Congress on Hispanic and Lusophone Linguistics (26th OSUCHiLL - Hybrid)
+        link: "https://sppo.osu.edu/research/osu-congress-on-hispanic-lusophone-linguistics-symposium"
+       #  details: |
+      #    Describe your role here lorem ipsum dolor sit amet, consectetuer
+      #    adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+      #    Cum sociis natoque penatibus et magnis dis parturient montes,
+      #    nascetur ridiculus mus. Donec quam felis, ultricies nec,
+      #    pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+      #    enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+      #    error sit voluptatem accusantium doloremque laudantium, totam rem
+      #    aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+      #    architecto beatae vitae dicta sunt explicabo.
+      #      - Bullet point
+      #      - Bullet point
+      - role: A
         time: 2012 - 2014
         company: Amazon, London
         details: |
