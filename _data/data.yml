@@ -16,7 +16,8 @@ sidebar:
    # phone: 012 345 6789
    # timezone: America/Cancun Timezone
    # citizenship:
-    website: www.researchgate.net/profile/Yan-Masetto-Nicolai  #do not add http://
+    website: Research Gate  #do not add http://
+              link: www.researchgate.net/profile/Yan-Masetto-Nicolai
    # linkedin: alandoe
     #xing: alandoe
     #github: sharu725
