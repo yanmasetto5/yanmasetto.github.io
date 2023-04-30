@@ -16,8 +16,7 @@ sidebar:
    # phone: 012 345 6789
    # timezone: America/Cancun Timezone
    # citizenship:
-    website: Research Gate  #do not add http://
-              link: www.researchgate.net/profile/Yan-Masetto-Nicolai
+    website: www.researchgate.net/profile/Yan-Masetto-Nicolai  #do not add http://
    # linkedin: alandoe
     #xing: alandoe
     #github: sharu725
@@ -79,7 +78,7 @@ experiences:
     info:
       - role: Os perigos de PROMETER, JURAR, TESTESMUNHAR 
               e BRINCAR
-        time: April, 24th, 2023
+        time: 24/04/2023
         company: School of Autumm of Linguistics (OBL 2023)
       #  details: |
       #    Describe your role here lorem ipsum dolor sit amet, consectetuer
@@ -95,7 +94,7 @@ experiences:
       #      - Bullet point
       - role: Infinitivo, gerúndio e particípio - 
               formas distintas ao imperativo com interpretação diretiva em português brasileiro
-        time: March, 24th-25th, 2023
+        time: 24~25/03/2023
         company: 26th Ohio State University Congress on Hispanic and Lusophone Linguistics (26th OSUCHiLL - Hybrid)
         link: "https://sppo.osu.edu/research/osu-congress-on-hispanic-lusophone-linguistics-symposium"
        #  details: |
@@ -110,24 +109,23 @@ experiences:
       #    architecto beatae vitae dicta sunt explicabo.
       #      - Bullet point
       #      - Bullet point
-      - role: A
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+      - role: Pragmática e Autismo
+        time: Agosto/2022
+        company:  Linguística: o que é e como se faz? 
+        details: 
+            - link: "https://www.youtube.com/watch?v=JYBCZxC_f3Q&list=PLcmDCspMllp7Feg7I-sCqThEyc70qWub9&index=10"
+      - role: Indiciando as diferenças, Constatando as Evidências
+        time: Agosto/2022
+        company:  Linguística: o que é e como se faz? 
+        details: 
+            - link: "https://www.youtube.com/watch?v=ArjXGYdDAE0&list=PLcmDCspMllp7Feg7I-sCqThEyc70qWub9&index=15"
 
 projects:
     title: Projects
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+   #intro: >
+   #   You can list your side projects in this
+   #   section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+   #   Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: Directivity in Brazilian Portuguese (PhD thesis)
         link: "#hook"
