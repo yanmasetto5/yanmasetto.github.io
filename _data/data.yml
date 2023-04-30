@@ -230,20 +230,20 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Congress Organization
+      #  level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Teaching Portuguese
+        #level: 98%
 
-      - name: Angular
-        level: 98%
+      - name: Teaching Spanish
+        #level: 98%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: Teaching Formal Semantics and Pragmatics
+        #level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: LaTeX
+        #level: 85%
 
       - name: Sketch & Photoshop
         level: 60%
