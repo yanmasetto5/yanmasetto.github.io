@@ -91,8 +91,7 @@ experiences:
       #    architecto beatae vitae dicta sunt explicabo.
       #      - Bullet point
       #      - Bullet point
-      - role: Infinitivo, gerúndio e particípio - 
-              formas distintas ao imperativo com interpretação diretiva em português brasileiro
+      - role: Infinitivo, gerúndio e particípio - formas distintas ao imperativo com interpretação diretiva em português brasileiro
         time: March/2023
         company: 26th Ohio State University Congress on Hispanic and Lusophone Linguistics (26th OSUCHiLL - Hybrid)
         link: "https://sppo.osu.edu/research/osu-congress-on-hispanic-lusophone-linguistics-symposium"
@@ -119,7 +118,22 @@ experiences:
         company:  Linguística -- o que é e como se faz? 
         link: "https://www.youtube.com/watch?v=ArjXGYdDAE0&list=PLcmDCspMllp7Feg7I-sCqThEyc70qWub9&index=15"
         details: 
-           Lecture discussing the limits of translating the song 'Evidências' by the duo Chitãozinho and Xororó, and the issues of Critical Discourse Analysis.
+           Lecture discussing the limits of translating the song 'Evidências' by the duo Chitãozinho &amp; Xororó, and the issues of Critical Discourse Analysis.
+      - role: Tornando-se o Poderoso Chefão -- uma proposta transmídia de análise do game The Godfather e a obra literária homônima
+        time: May/2022
+        company:  I SILAR 
+        details: 
+           Workshop presenting the issues of adapting a movie into a game, taking into consideration the intricacies of transmedia theory and transcreation.
+      - role: Relativismo Linguístico
+        time: May/2020
+        company:  Online School of Autumm of Linguistics (OBL 2020)
+        details: 
+           Lecture addressing historical issues and discussing the term 'Linguistic Relativism' and its theoretical and methodological ramifications in the field of linguistic studies.
+      - role: O que é Semântica formal?
+        time: August/2020
+        company:  Linguística -- o que é e como se faz? 
+        details: 
+           Lecture explaining the intricacies of the field of formal semantics and its applications in linguistic analysis.
 
 projects:
     title: Projects
