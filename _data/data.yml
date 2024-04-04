@@ -12,7 +12,7 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: prof.ymasetto@gmail.com
+    email: yan@ufscar.br
    # phone: 012 345 6789
    # timezone: America/Cancun Timezone
    # citizenship:
@@ -143,8 +143,12 @@ projects:
    #   section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
    #   Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Directivity in Brazilian Portuguese (PhD thesis)
+      - title: The Transmedia Process and the Reception of Mod Demand for the Game Skyrim in Brazil (Post-Doctorate Research)
         link: "#hook"
+        tagline: The present study aims to analyse of the impact of mods on players ludonarrative experience, concurrently exploring the motivation underlying the creation of possible worlds
+      
+      - title: Directivity in Brazilian Portuguese (PhD thesis)
+        link: "https://repositorio.ufscar.br/handle/ufscar/18628"
         tagline: Description and analysis of directive force in Brazilian Portuguese based on Formal Semantics and Pragmatics, and interface with Cartographic Syntax
 
       - title: Imperatives in Brazilian Portuguese (Masters Dissertation)
